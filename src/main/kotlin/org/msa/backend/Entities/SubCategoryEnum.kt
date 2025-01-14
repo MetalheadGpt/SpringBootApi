@@ -1,0 +1,28 @@
+package org.msa.backend.Entities
+
+enum class SubCategoryEnum {
+    CLASSIC_ROCK,
+    DEATH_METAL,
+    BLACK_METAL,
+    HEAVY_METAL,
+    TRASH_METAL,
+    DOOM_METAL,
+    PROGRESSIVE_ROCK,
+    PROGRESSIVE_METAL,
+    ALTERNATIVE_ROCK,
+    GRUNGE,
+    PUNK_ROCK,
+    POST_PUNK,
+    NEW_WAVE,
+    GLAM_METAL,
+    INDUSTRIAL_METAL,
+    NU_METAL,
+    METAL_CORE,
+    POST_METAL,
+    STONER_ROCK,
+    SLUDGE_METAL,
+    GROVE_METAL,
+    FOLK_METAL,
+    GOTHIC_METAL,
+    SYMPHONIC_METAL
+}
